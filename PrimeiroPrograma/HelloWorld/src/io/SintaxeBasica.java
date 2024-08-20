@@ -8,6 +8,7 @@ import java.util.Scanner;
 // ARQUIVO NÃO EXECUTÁVEL APENAS EXEMPLO
 
 public class SintaxeBasica {
+    /*
     // Scanner para iniciar
     Scanner scanner = new Scanner(System.in);
 
@@ -38,5 +39,5 @@ public class SintaxeBasica {
     PrintWriter writer = new PrintWriter(System.out, true);
     writer.println("Hello, World!"); // Imprime uma linha de texto
     writer.printf("Nome: %s, Idade: %d%n", "João", 30); // Imprime com formatação
-
+*/
 }
