@@ -1,7 +1,9 @@
+package operadores;
+
 public class Operadores {
 
     public static void main(String[] args) {
-        // Operadores de Atribuição
+        // operadores.Operadores de Atribuição
         int a = 10; // Operador de Atribuição Simples (=)
         int b = 20;
 

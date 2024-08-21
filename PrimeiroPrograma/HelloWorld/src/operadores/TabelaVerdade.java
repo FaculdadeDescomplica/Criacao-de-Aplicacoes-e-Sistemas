@@ -1,3 +1,5 @@
+package operadores;
+
 public class TabelaVerdade {
     public static void main(String[] args) {
         // Tabela Verdade para o Operador AND (&&)

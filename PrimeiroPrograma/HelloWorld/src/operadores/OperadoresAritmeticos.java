@@ -1,3 +1,5 @@
+package operadores;
+
 public class OperadoresAritmeticos {
 
     public static void main(String[] args) {
@@ -21,7 +23,7 @@ public class OperadoresAritmeticos {
         int modulo = x % y;     // Módulo (resto da divisão)
         System.out.println("Módulo: " + modulo);
 
-        // Operadores de Incremento e Decremento
+        // operadores.Operadores de Incremento e Decremento
         int incremento = 10;
         int decremento = 10;
 
